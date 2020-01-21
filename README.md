@@ -24,7 +24,7 @@ Unpack the folder you donwloaded in your computer (e.g. /home/Software/V-REP_PRO
 Enter in the console:
 
 <pre><code>$ cd /home/Software/V-REP_PRO_EDU_V3_6_1_Ubuntu18_04 
-$./vrep.sh
+$ ./vrep.sh
 </code></pre> 
 
 
