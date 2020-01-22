@@ -1,6 +1,7 @@
 # IE574-Robotics
 
-# V-rep 3.6.1 installation (make sure you install vrep 3.6.1, not coppeliaSim)
+# V-rep 3.6.1 installation 
+##(make sure you install vrep 3.6.1, not ~~coppeliaSim~~)
 For this class we will use V-REP 3.6.1 version downloadable as a previous version of Coppelia robotics simulator, select V-REP PRO EDU according to the operating system you wish to use.
 
 ### Mac Users:
