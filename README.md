@@ -28,5 +28,5 @@ $./vrep.sh
 http://coppeliarobotics.com/files/V-REP_PRO_EDU_V3_6_1_Setup.exe 
 run the executable file and follow the instructions
 
-### v-rep Coppelia Sim/full link of previous version:
+### v-rep link of previous version:
 http://coppeliarobotics.com/previousVersions
