@@ -10,12 +10,17 @@ In this laboratory, a camera system will be utilized to capture an image of an o
 Convolutional neural networks in robotic simulation with coppeliaSim (v-rep)
 
 Laboratory 5: Machine Learning and Artificial Intelligence
+
  laboratory tutorial: https://youtu.be/ExktmKdeDSY 
 
 Video tutorials for all installations
+
 Watch the video tutorial according to your Operating system and follow the instructions on this installation guide.
+
 Windows: https://youtu.be/mD6IEto-e4s
+
 Ubuntu: https://youtu.be/SQNMtq07dpw
+
 Mac: https://www.youtube.com/watch?v=sIuFBj0bCPI
 
 
