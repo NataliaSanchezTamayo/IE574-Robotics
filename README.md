@@ -8,15 +8,15 @@ Laboratory 5: Machine Learning and Artificial Intelligence
  laboratory tutorial: https://youtu.be/ExktmKdeDSY 
 
 
-# V-rep 3.6.1 installation 
-## (make sure you install vrep 3.6.1)
+## V-rep 3.6.1 installation 
+### (make sure you install vrep 3.6.1)
 For this class we will use V-REP 3.6.1 version downloadable as a previous version of Coppelia robotics simulator, select V-REP PRO EDU according to the operating system you wish to use.
 
-### Mac Users:
+#### Mac Users:
 http://coppeliarobotics.com/files/V-REP_PRO_EDU_V3_6_1_Mac.zip
 Download the folder from the link, unzip the folder, enter the folder and chick on the vrep app icon.
 
-### Ubuntu Users
+#### Ubuntu Users
  16.04: 
 http://coppeliarobotics.com/files/V-REP_PRO_EDU_V3_6_1_Ubuntu16_04.tar.xz 
 
@@ -32,9 +32,9 @@ $./vrep.sh
 </code></pre> 
 
 
-### Windows Users:
+#### Windows Users:
 http://coppeliarobotics.com/files/V-REP_PRO_EDU_V3_6_1_Setup.exe 
 run the executable file and follow the instructions
 
-### v-rep link of previous version:
+#### v-rep link of previous version:
 http://coppeliarobotics.com/previousVersions
