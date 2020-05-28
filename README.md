@@ -1,4 +1,12 @@
 # IE574-Robotics
+Repository for the Class IE574 Industrial Robotics and Flexible assembly
+
+Professor: Juan P. Wachs
+Teaching Assistant: Natalia Sanchez-Tamayo
+
+Laboratory 5: Machine Learning and Artificial Intelligence
+ laboratory tutorial: https://youtu.be/ExktmKdeDSY 
+
 
 # V-rep 3.6.1 installation 
 ## (make sure you install vrep 3.6.1)
