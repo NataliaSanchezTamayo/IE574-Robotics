@@ -7,4 +7,4 @@ In this laboratory, a camera system will be utilized to capture an image of an o
 
 ![laboratory image](image1.PNG)
 
-Note: Convolutional neural networks in robotic simulation with coppeliaSim (v-rep)
+Convolutional neural networks in robotic simulation with coppeliaSim (v-rep)
